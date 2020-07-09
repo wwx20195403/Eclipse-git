@@ -12,6 +12,7 @@ public class DakaInfo {
 		this.ID=ID;
 	}
 	//kaiakaiaisasd
+	//sjadadjd
 	public int getID() {
 		return ID;
 	}
