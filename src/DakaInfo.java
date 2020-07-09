@@ -11,8 +11,6 @@ public class DakaInfo {
 	public DakaInfo(int ID) {
 		this.ID=ID;
 	}
-	//kaiakaiaisasd
-	//sjadadjd
 	public int getID() {
 		return ID;
 	}

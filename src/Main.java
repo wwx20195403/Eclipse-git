@@ -18,7 +18,6 @@ public class Main {
 							"请输入想执行的操作："	);
 	}
 	public void registerStart() {
-		//家里ssdadasda
 		System.out.println("请输入签到员工ID");
 		Scanner scan=new Scanner(System.in);
 		Employee temp=com.searchEmployee(scan.nextInt());

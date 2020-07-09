@@ -59,7 +59,7 @@ public class Company {
 				}else if(aa==1) {
 					System.out.println("卡号："+ID+"   签退成功");
 				}
-				
+	
 			}
 		}
 	}
